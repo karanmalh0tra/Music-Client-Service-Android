@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="Images">
+        <item>@drawable/jay_someday_the_way_i_do</item>
+        <item>@drawable/liqwyd_coral</item>
+        <item>@drawable/megaenx_recovery</item>
+        <item>@drawable/mixaund_inspiring_happy_morning</item>
+        <item>@drawable/peyruis_like_before</item>
+        <item>@drawable/purrple_cat_snooze_button</item>
+    </integer-array>
+    <string-array name="Titles">
+        <item>The Way I Do</item>
+        <item>Coral</item>
+        <item>Recovery</item>
+        <item>Happy Morning</item>
+        <item>Like Before</item>
+        <item>Snooze Button</item>
+    </string-array>
+    <string-array name="Artists">
+        <item>Jay</item>
+        <item>Liqwyd</item>
+        <item>Megaenx</item>
+        <item>Peyrius</item>
+        <item>Karan</item>
+        <item>Purple Cat</item>
+    </string-array>
+    <string-array name="songURLs">
+        <item>https://www.free-stock-music.com/music/jay-someday-the-way-i-do.mp3</item>
+        <item>https://www.free-stock-music.com/music/liqwyd-coral.mp3</item>
+        <item>https://www.free-stock-music.com/music/megaenx-recovery.mp3</item>
+        <item>https://www.free-stock-music.com/music/mixaund-inspiring-happy-morning.mp3</item>
+        <item>https://www.free-stock-music.com/music/peyruis-like-before.mp3</item>
+        <item>https://www.free-stock-music.com/music/purrple-cat-snooze-button.mp3</item>
+    </string-array>
+</resources>
